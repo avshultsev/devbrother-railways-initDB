@@ -1,0 +1,6 @@
+number, type, departureTime, route, lead, machenist, machenistAssistant
+987, EXPRESS, 11:00:00, 101425a3-1faf-410d-8c60-f8037303501d, lead987@gmail.com, machenist987@gmail.com, machenistAssist987@gmail.com
+654, EXPRESS, 20:30:00, 2b331622-9184-4168-8aa8-39025c26847f, lead654@gmail.com, machenist654@gmail.com, machenistAssist654@gmail.com
+321, BRAND, 23:50:00, 528b59f8-ef3e-46fe-9c24-69a89fe271dd, lead321@gmail.com, machenist321@gmail.com, machenistAssist321@gmail.com
+741, PASSENGER, 09:00:00, 6d7d2458-6e77-4a08-8e2c-957eef565099, lead741@gmail.com, machenist741@gmail.com, machenistAssist741@gmail.com
+852, BRAND, 00:15:00, f4fe765d-6f7d-43b8-91e6-6bf54764b0dd, lead852@gmail.com, machenist852@gmail.com, machenistAssist852@gmail.com
