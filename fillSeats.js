@@ -43,7 +43,7 @@ const createSeats = async (seats) => {
   if (seats.length) await createSeats(seats);
 };
 
-(async () => {
+module.exports = async () => {
   const data = await fs.readFile(src, 'utf-8');
   const rows = data.split('\n');
   const seats = [];
@@ -57,4 +57,4 @@ const createSeats = async (seats) => {
     seats.push(seatsForCarriage);
   }
   createSeats(seats);
-})();
+};
